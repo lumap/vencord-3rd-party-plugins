@@ -1,0 +1,1 @@
+# vencord-3rd-party-plugins
